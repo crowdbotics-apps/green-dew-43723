@@ -39,7 +39,9 @@ const styles = StyleSheet.create({
     textAlign: "center",
     fontSize: 28,
     color: "#828AB0",
-    fontWeight: 700
+    fontWeight: 700,
+    width: 158,
+    height: 49
   },
   footer: {
     textAlign: "center",
